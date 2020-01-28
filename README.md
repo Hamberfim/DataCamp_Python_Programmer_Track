@@ -3,6 +3,7 @@
 
 ![](/Python_Programming_Track.jpg "Certificate")
 
+
 ### Note:<br>
 #### I later deleted my DataCamp account in the Spring 2019 after hearing reports that an executive was involved in sexual misconduct. Several instructors and community members were aware of an incident at DataCamp but had struggled to get DataCamp executives to properly handle and own up to the situation.
 #### Later it was revealed that it wasn't just some misconduct but an individual was sexually assaulted (“uninvited physical contact”) and the complany did not remove the executive involved. Then they wrongly fired persons who brought there concerns to their managers. These events prompted instructors at DataCamp to ask people not to take their courses (to boycott them). 
