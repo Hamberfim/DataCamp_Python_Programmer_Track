@@ -1,11 +1,7 @@
 ## DataCamp Python Programmer Track
 ### I Completed this track sometime prior to the Summer of 2018.
 
-![alt text](https://github.com/Hamberfim/DataCamp_Python_Programmer_Track/blob/master/Python%20Programming%20Track.jpg" Certificate")
-
-
-
-
+(http://example.com/)
 
 ### Note:<br>
 #### I later deleted my DataCamp account in the Spring 2019 after hearing reports that an executive was involved in sexual misconduct. Several instructors and community members were aware of an incident at DataCamp but had struggled to get DataCamp executives to properly handle and own up to the situation.
